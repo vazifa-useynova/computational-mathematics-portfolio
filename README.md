@@ -24,11 +24,3 @@ This portfolio showcases implementations of numerical algorithms and research co
 - **Heat Equation**: Basic finite difference solver
 - *Bridging mathematical theory with engineering practice*
 
-## 🚀 Quick Start
-```bash
-# Clone repository
-git clone https://github.com/vuseynova/computational-mathematics-portfolio.git
-
-# Run Gaussian elimination example
-cd computational-mathematics-portfolio
-python numerical_methods/linear_algebra/gauss_elimination.py
